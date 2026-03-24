@@ -29,4 +29,4 @@ Visualizes Hawking temperature (T ∝ 1/M), horizon area (A ∝ M²), and Bekens
 
 ## Notes
 
-All models assume idealized conditions (e.g., Schwarzschild black holes, perfect blackbody radiation) to isolate core physical behavior.
+All models assume idealized conditions to isolate core physical behavior.
